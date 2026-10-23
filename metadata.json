@@ -1,0 +1,10 @@
+{
+  "name": "Remix Dora - Okul Zorbalığı Tespit ve Öğrenci Takip Platformu",
+  "description": "İlkokul ve ortaokul öğrencileri için sevimli yapay zekâ robotu Dora ile sesli rehberlik ve akran zorbalığı tespit platformu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
